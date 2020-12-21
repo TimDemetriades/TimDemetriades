@@ -29,11 +29,11 @@ Check me out in other places:
 
 ✨ This one is for a graduate course I took at Stevens - *GPU & Multicore Programming*. The course was a great learning experience that went over using CUDA C to parallely run programs on GPUs. Included in the repo are the 4 projects we worked on during the course.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimDemetriades&repo=CUDA-Programming)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimDemetriades&repo=CUDA-Programming&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ✨ This one is for another graduate course I took at Stevens - *Engineering Programming: Python*. It was another great course that provided me with a strong foundation in Python programming. Included in the repo is the final project for the course in which I created a program to solve the NYTimes Daily Sudoku Puzzle.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimDemetriades&repo=PythonSudokuSolver)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimDemetriades&repo=PythonSudokuSolver&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 🎮 Finally, here's a project I just recently completed where I created a 2D platformer using Unity (all the sprites were drawn by yours truly). Check it out here on Itch.io: https://iiit1m3diii.itch.io/cloud-nine
 
