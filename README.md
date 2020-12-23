@@ -20,6 +20,7 @@ Check me out in other places:
 </p>
 
 #### Here's some stats! (Thanks to https://github.com/anuraghazra/github-readme-stats for these awesome graphics)
+(As a note, at my current job we use BitBucket instead of GitHub, so this may not accurately reflect what I do at work.)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDemetriades&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
