@@ -22,7 +22,7 @@ Check me out in other places:
 #### Here's some stats! (Thanks to https://github.com/anuraghazra/github-readme-stats for these awesome graphics)
 (As a note, at my current job we use BitBucket instead of GitHub, so this may not accurately reflect what I do at work.)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDemetriades&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDemetriades&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TimDemetriades&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
