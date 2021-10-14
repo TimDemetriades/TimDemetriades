@@ -1,13 +1,15 @@
 ### Hi there 👋
 I'm Tim, welcome to my GitHub!
 
-🌱 I'm a senior co-op student at Stevens Institute of Technology where I'm currently studying Computer Engineering. 
+🌱 I'm a recent Computer Engineering Undergraduate at Stevens Institute of Technology where I'm currently obtaining my Masters in Applied Artificial Intelligence. 
 
-🔭 As a co-op I've had the opportunity to work at a handful of wonderful places including Movado, JobDiva, and most recently SPHERE Technology Solutions where I have been working since May 2019 as an Implementation Engineer / Software Developer / QA Tester. 
+🔭 During my time as an Undergrad I was part of the Co-op program where I've had the opportunity to work at a handful of wonderful places including Movado, JobDiva, and most recently SPHERE Technology Solutions where I have been working since May 2019 as an Implementation Engineer / Software Developer / QA Tester. 
 
-⚡ I recently got accepted into the graduate program at Steven's Institute of Technology where I'll be getting my Master of Engineering in Applied Artificial Intelligence with a Software Engineering concentration. I'm part of the Accelerated Master's Program which means I plan on completing my graduate degree by May of 2022.
+✨ I'm currently working part-time as a Data Analyst at Cantor Fitzgerlad, a financial firm in NYC. There I work with tools such as Airflow, Python, Docker, and more to create ETL solutions.
 
-📡 As a senior at Stevens, I'm currently working on a senior design project - *The Drone Deterrence System*. Me and a group of 4 other computer and electrical engineering students are creating a system to detect and deter increasingly prevelant consumer drones. We've completed the R&D stages and hope to have a working prototype by May 2021. Check out our website here - https://sites.google.com/view/dronedeterrencesystem
+⚡ I recently got accepted into the graduate program at Steven's Institute of Technology where I'll be getting my Master of Engineering in Applied Artificial Intelligence with a Software Engineering concentration. I'm part of the Accelerated Master's Program which means I plan on completing my graduate degree by May of 2022 (only 1 extra year).
+
+📡 As a senior at Stevens I worked on a senior design project - *The Drone Deterrence System*. Myself and a group of 4 other computer and electrical engineering students created a system to detect and deter increasingly prevelant consumer drones. Check out our website here - https://sites.google.com/view/dronedeterrencesystem
 
 Check me out in other places:
 <p align="left">
