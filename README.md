@@ -1,13 +1,20 @@
 ### Hi there 👋
 I'm Tim, welcome to my GitHub!
 
-🌱 I'm a recent Computer Engineering Undergraduate at Stevens Institute of Technology where I'm currently obtaining my Masters in Applied Artificial Intelligence. 
+<!-- icons with padding -->
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++11-informational?style=flat&logo=C++11&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-🔭 During my time as an Undergrad I was part of the Co-op program where I've had the opportunity to work at a handful of wonderful places including Movado, JobDiva, and most recently SPHERE Technology Solutions where I have been working since May 2019 as an Implementation Engineer / Software Developer / QA Tester. 
+🎓 I'm a recent graduate student where I received my masters in Applied Artificial Intelligence (with a Software Engineering concentration) and an undergraduate degree in Computer Engineering at Stevens Institute of Technology. 
 
-✨ I'm currently working part-time as a Data Analyst at Cantor Fitzgerlad, a financial firm in NYC. There I work with tools such as Airflow, Python, Docker, and more to create ETL solutions.
+🔭 During my time as an undergrad I was part of the Co-op program where I've had the opportunity to work at a handful of wonderful places including Movado, JobDiva, and SPHERE Technology Solutions in which I got experience in roles such as Software Development, Data Analysis, and Quality Assurance.
 
-⚡ I recently got accepted into the graduate program at Steven's Institute of Technology where I'll be getting my Master of Engineering in Applied Artificial Intelligence with a Software Engineering concentration. I'm part of the Accelerated Master's Program which means I plan on completing my graduate degree by May of 2022 (only 1 extra year).
+✨ During the summer between my undergraduate and graduate degrees I worked as a Data Analyst at Cantor Fitzgerlad, a financial firm in NYC. There I worked with tools such as Airflow, Python, Docker, and more to create ETL solutions.
 
 📡 As a senior at Stevens I worked on a senior design project - *The Drone Deterrence System*. Myself and a group of 4 other computer and electrical engineering students created a system to detect and deter increasingly prevelant consumer drones. Check out our website here - https://sites.google.com/view/dronedeterrencesystem
 
@@ -22,7 +29,6 @@ Check me out in other places:
 </p>
 
 #### Here's some stats! (Thanks to https://github.com/anuraghazra/github-readme-stats for these awesome graphics)
-(As a note, at my current job we use BitBucket instead of GitHub, so this may not accurately reflect what I do at work.)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDemetriades&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
