@@ -14,7 +14,7 @@ I'm Tim, welcome to my GitHub!
 
 🔭 During my time as an undergrad I was part of the Co-op program where I've had the opportunity to work at a handful of wonderful places including Movado, JobDiva, and SPHERE Technology Solutions in which I got experience in roles such as Software Development, Data Analysis, and Quality Assurance.
 
-✨ During the summer between my undergraduate and graduate degrees I worked as a Data Analyst at Cantor Fitzgerlad, a financial firm in NYC. There I worked with tools such as Airflow, Python, Docker, and more to create ETL solutions.
+✨ During the summer between my undergraduate and graduate degrees I worked as a Data Analyst at Cantor Fitzgerald, a financial firm in NYC. There I worked with tools such as Airflow, Python, Docker, and more to create ETL solutions.
 
 📡 As a senior at Stevens I worked on a senior design project - *The Drone Deterrence System*. Myself and a group of 4 other computer and electrical engineering students created a system to detect and deter increasingly prevelant consumer drones. Check out our website here - https://sites.google.com/view/dronedeterrencesystem
 
